@@ -1,0 +1,12 @@
+[1mdiff --git a/inex.html b/inex.html[m
+[1mindex b48f035..62d9b7c 100644[m
+[1m--- a/inex.html[m
+[1m+++ b/inex.html[m
+[36m@@ -1,4 +1 @@[m
+[31m-<p>THE NEW PARAGRAPH</p>[m
+[31m-<b>[m
+[31m-    This is bold in F1[m
+[31m-</b>[m
+\ No newline at end of file[m
+[32m+[m[32m<p>THE NEW PARAGRAPH</p>[m
+\ No newline at end of file[m
